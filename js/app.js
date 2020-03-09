@@ -27,6 +27,7 @@
 		}
 	]
 
+	
 	//全局自定义指令
 	Vue.directive('app-focus',{
 		inserted (el,binding) {
